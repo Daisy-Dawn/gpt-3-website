@@ -1,3 +1,6 @@
+# GPT-3-WEBISTE
+Link to Figma Design: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&mode=dev 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
